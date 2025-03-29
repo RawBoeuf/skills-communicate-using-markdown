@@ -5,3 +5,7 @@
 ``` javascript
 var Lol = "Lol';
 ```
+
+- [] Work on things.
+- [x] Make GitHub commit.
+- [] Be happy.
