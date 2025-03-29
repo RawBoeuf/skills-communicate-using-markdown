@@ -6,6 +6,6 @@
 var Lol = "Lol';
 ```
 
-- [] Work on things.
+- [ ] Work on things.
 - [x] Make GitHub commit.
-- [] Be happy.
+- [ ] Be happy.
